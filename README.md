@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Ohjpedro,
-- 🇧🇷 I'm Brazilian, northeastern,
-- 👀 I'm interested in learning about the technological language,
-- 🌱 I’m currently learning criar bot de WhatsApp,
-- 💞️ I'm looking to collaborate on colleagues,
-- 📱 How to reach me +55(82)9943-4241,
-- 📫 How to reach me peh.gmz@gmail.com
+- 👋 Olá, sou @Ohjpedro,
+ - 🇧🇷 Sou brasileiro, nordestino,
+ - 👀 Tenho interesse em aprender sobre a linguagem tecnológica,
+ - 🌱 Atualmente estou aprendendo a criar bot de WhatsApp,
+ - 💞️ Procuro colaborar nos colegas,
+ - 📱 Como chegar +55(82)9943-4241.
 
-<!---
-Ohjpedro/Ohjpedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <!---
+ Ohjpedro/Ohjpedro é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+ Você pode clicar no link Visualizar para ver suas alterações.
+ --->
